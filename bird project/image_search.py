@@ -1,12 +1,9 @@
-# AIzaSyCB7jXCZQYbg_HXKhr1pzP5pwbTUFcUMVY
-# c50af3f9cbaa0a6d8
-
 from google_images_search import GoogleImagesSearch
 from io import BytesIO
 from PIL import Image
 from random_birds import bird_chosen
 
-gis = GoogleImagesSearch('AIzaSyCB7jXCZQYbg_HXKhr1pzP5pwbTUFcUMVY', 'c50af3f9cbaa0a6d8')
+gis = GoogleImagesSearch('', '')
 
 my_bytes_io = BytesIO()
 def bird_image():
